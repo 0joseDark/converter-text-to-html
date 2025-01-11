@@ -1,4 +1,4 @@
-# converter-text-to-html
+# converter text to html
 
 ### Explicação
 
@@ -25,14 +25,13 @@
 6. **Execução**:
    - A função `mainloop` mantém a janela aberta até que o utilizador a feche ou clique no botão "Sair".
    ---
+# converter Markdown to html
+### Explicação
+
 1. Selecionar uma pasta de origem contendo ficheiros Markdown.
 2. Escolher uma pasta de destino para gravar os ficheiros convertidos em HTML.
 3. Converter os ficheiros Markdown em HTML.
 4. Sair da aplicação.
-
-
-
----
 
 ### Explicação dos Módulos Utilizados
 
